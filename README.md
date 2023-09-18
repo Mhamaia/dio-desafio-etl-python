@@ -1,4 +1,4 @@
-# 👨‍💻 Desafio de projeto
+# 👨‍💻 DIO - Desafio de projeto
 ## Explorando IA Generativa em um Pipeline de ETL com Python
 Nesse desafio, implantei uma coleta de dados de um formulário online, extraindo um .csv desses dados.
 
